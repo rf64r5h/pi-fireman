@@ -1,0 +1,57 @@
+-----RESULTADOS COM n = 1 bilhão
+Numero execuções:1000000000
+
+
+
+
+
+Threads: 1
+média duração:761555,3822ms
+desvio padrão duração:55418,3116ms
+coeficiente de duração:7,2770%
+Pi - 3.1415926525880504
+
+
+Threads: 2
+
+média duração:403501,9052ms
+desvio padrão duração:9099,8360ms
+coeficiente de duração:2,2552%
+Pi - 3.141592652589258
+
+
+Threads: 4
+
+
+média duração:389395,3702ms
+desvio padrão duração:3186,3705ms
+coeficiente de duração:0,8183%
+Pi - 3.1415926525892104
+
+
+
+
+Threads: 8
+
+média duração:435177,2580ms
+desvio padrão duração:43336,5873ms
+coeficiente de duração:9,9584%
+Pi - 3.141592652589324
+
+
+
+Threads: 16
+
+média duração:385426,1180ms
+S - Desvio padrao:2721,0305ms
+C - coeficiente:0,7060%
+Pi-[3.141592652590205
+
+
+Threads: 32
+
+
+média duração:409317,4824ms
+desvio padrão duração:16073,4672ms
+coeficiente de duração:3,9269%
+Pi - 3.141592652590108
